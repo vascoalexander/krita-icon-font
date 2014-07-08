@@ -1,4 +1,4 @@
-Krita Iconfont
+Krita Icon Font
 ===============
 
 #### A Webfont created with the original awesome [Krita](https://krita.org/) Icons.
