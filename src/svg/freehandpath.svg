@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32px" width="32px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient13029" y2="1470.52" gradientUnits="userSpaceOnUse" x2="140.628" gradientTransform="matrix(2.1108614,0,0,2.1395018,-268.21133,-3116.2415)" y1="1458.39" x1="130.747">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#aaaaaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1,0,0,1.0538855,0,3.4647633e-6)">
+  <rect fill-opacity="0" height="1.70414" width="1.27926" y="19.5001" x="19.2357"/>
+  <path style="baseline-shift:baseline;block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="M18.0083,0.00931579c-4.7356,0.157978-9.9792,2.32393-12.8631,7.22091h4.4196c2.23941-2.46678,5.43803-3.50544,8.57538-3.60987,1.1305-0.041573,2.21974,0.109753,3.23222,0.333915v-3.74391c-1.0844-0.159647-2.2135-0.23847-3.3641-0.201387zm4.94732,2.07283,0,9.15972,9.03712,0,0-9.15972-9.03712,0zm2.7705,2.80818,3.49614,0,0,0.064854,0,3.47667-3.49614,0,0-3.47667,0-0.064854zm-25.7261,4.14517v9.15972h9.03712v-9.15972h-9.03712zm21.3724,1.2705c-0.591886,0.271223-1.1765,0.588342-1.78102,0.935894-1.86478,1.07674-3.69284,2.89-4.02382,5.68337-0.131253,1.10568-0.04824,2.33608,0.263867,3.67689h3.49609v-1.13628c-0.173762-0.829799-0.259684-1.55084-0.197782-2.07267,0.180736-1.5239,0.896016-2.23231,2.2428-3.00873v-1.47102-0.06652-2.54045zm-18.602,1.53771,3.49611,0,0,0.06485,0,3.47701,0,0.06485-3.49611,0,0-0.06485,0-3.47701,0-0.06485zm14.1824,9.36043,0,9.15972,9.03712,0,0-9.15972-9.03712,0zm2.77051,2.80801,3.49612,0,0,3.54336-3.49612,0,0-3.54336z" fill="url(#linearGradient13029)"/>
+ </g>
+</svg>

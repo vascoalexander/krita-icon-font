@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32px" width="32px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient15969" y2="1366.97" gradientUnits="userSpaceOnUse" x2="234.384" gradientTransform="matrix(1.9951474,0,0,2.2145729,-435.67963,-2995.1514)" y1="1352.73" x1="218.411">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#aaaaaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path style="baseline-shift:baseline;block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" fill="url(#linearGradient15969)" d="m15.092,0-0.84375,1.70751s-1.82416,3.60079-2.65625,5.249l-8.40621-3.06719-1.78125-0.66403-1.28125,3.60474,1.78125,0.63241,7.96875,2.90909c-1.04465,2.06632-1.19833,2.32964-2.40625,4.71146-1.71197,3.37572-3.43864,6.77384-4.78125,9.39129-0.671305,1.30872-1.23305,2.41679-1.65625,3.22529-0.211599,0.40425-0.40494,0.746695-0.53125,0.980236-0.12631,0.23354-0.261967,0.472397-0.15625,0.316205-0.079037,0.116773-0.194568,0.277684-0.28125,0.600789-0.0866817,0.323105-0.122703,0.915395,0.1875,1.45454,0.310203,0.539148,0.829962,0.797048,1.125,0.885374,0.295038,0.08832,0.461594,0.06661,0.59375,0.06324,0.528622-0.01346,0.56582-0.07481,0.71875-0.126482,0.305859-0.10336,0.612023-0.237006,1-0.411066,0.775954-0.348121,1.86753-0.862689,3.1875-1.51778,2.63994-1.31019,6.17161-3.14062,9.75-4.99604,7.15678-3.71084,14.4062-7.5573,14.4062-7.5573a1.88087,1.90317,0,0,0,-0.25,-3.47826l-15.625-5.66007c0.712525-1.4116,2.4375-4.80632,2.4375-4.80632l0.8438-1.70738-3.3438-1.73913zm-1.65625,11.668,12.0312,4.36363c-2.43922,1.28696-5.28898,2.81544-10.5312,5.53359-3.23446,1.67709-6.30295,3.23487-8.8125,4.49011,1.33577-2.60522,3.00846-5.9224,4.6875-9.23318,1.32171-2.60618,1.51484-2.95777,2.625-5.15414z"/>
+</svg>

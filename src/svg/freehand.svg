@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32px" width="32px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient13414" y2="1290.18" gradientUnits="userSpaceOnUse" y1="1276.61" gradientTransform="matrix(2.0212077,0,0,2.0804048,-329.26737,-2652.1912)" x2="178.208" x1="163.039">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#aaaaaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m0,0,0,13.6524,7.89535,5.59107c-0.30676-2.4121,2.64185-5.1485,5.24245-5.4609l-13.1378-13.7826zm14.338,15.083c-2.39721,0.57581-4.70867,2.4913-4.98987,5.26589l3.97926,2.60044c0.102114-2.04533,2.07044-4.0926,4.48455-4.22568l-3.47394-3.64066zm4.29506,4.87555c-2.65942,0.371099-4.27605,3.77114-3.53711,5.85124,2.06004,5.80354,18.3435,6.29268,16.8013,6.17626-8.25999-0.984748-5.065-10.5817-12.0641-11.9622-0.41953-0.0857-0.820176-0.11804-1.2001-0.06468z" fill="url(#linearGradient13414)"/>
+</svg>

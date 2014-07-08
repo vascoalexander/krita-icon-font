@@ -1,0 +1,193 @@
+@font-face {
+	font-family: 'krita-icons';
+	src:url('fonts/krita-icons.eot?-254sj6');
+	src:url('fonts/krita-icons.eot?#iefix-254sj6') format('embedded-opentype'),
+		url('fonts/krita-icons.woff?-254sj6') format('woff'),
+		url('fonts/krita-icons.ttf?-254sj6') format('truetype'),
+		url('fonts/krita-icons.svg?-254sj6#krita-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="kicon-"], [class*=" kicon-"] {
+	font-family: 'krita-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.kicon-select:before {
+	content: "\e600";
+}
+.kicon-text:before {
+	content: "\e601";
+}
+.kicon-pattern:before {
+	content: "\e602";
+}
+.kicon-calligraphy:before {
+	content: "\e603";
+}
+.kicon-format-fill-color:before {
+	content: "\e604";
+}
+.kicon-freehand:before {
+	content: "\e605";
+}
+.kicon-linetool:before {
+	content: "\e606";
+}
+.kicon-square:before {
+	content: "\e607";
+}
+.kicon-circle:before {
+	content: "\e608";
+}
+.kicon-poly:before {
+	content: "\e609";
+}
+.kicon-polyline:before {
+	content: "\e60a";
+}
+.kicon-drawpath:before {
+	content: "\e60b";
+}
+.kicon-freehand-vector:before {
+	content: "\e60c";
+}
+.kicon-dyna:before {
+	content: "\e60d";
+}
+.kicon-multibrush:before {
+	content: "\e60e";
+}
+.kicon-crop:before {
+	content: "\e60f";
+}
+.kicon-move:before {
+	content: "\e610";
+}
+.kicon-transform:before {
+	content: "\e611";
+}
+.kicon-measure:before {
+	content: "\e612";
+}
+.kicon-fill:before {
+	content: "\e613";
+}
+.kicon-colorpicker:before {
+	content: "\e614";
+}
+.kicon-ruler:before {
+	content: "\e615";
+}
+.kicon-perspective:before {
+	content: "\e616";
+}
+.kicon-grid:before {
+	content: "\e617";
+}
+.kicon-select-square:before {
+	content: "\e618";
+}
+.kicon-select-circle:before {
+	content: "\e619";
+}
+.kicon-select-brush:before {
+	content: "\e61a";
+}
+.kicon-select-poly:before {
+	content: "\e61b";
+}
+.kicon-select-freehand:before {
+	content: "\e61c";
+}
+.kicon-select-contiguous:before {
+	content: "\e61d";
+}
+.kicon-select-color:before {
+	content: "\e61e";
+}
+.kicon-select-path:before {
+	content: "\e61f";
+}
+.kicon-pan:before {
+	content: "\e620";
+}
+.kicon-zoom:before {
+	content: "\e621";
+}
+.kicon-new-file:before {
+	content: "\e622";
+}
+.kicon-print:before {
+	content: "\e623";
+}
+.kicon-save:before {
+	content: "\e624";
+}
+.kicon-add-layer:before {
+	content: "\e625";
+}
+.kicon-duplicate:before {
+	content: "\e626";
+}
+.kicon-move-down:before {
+	content: "\e627";
+}
+.kicon-move-up:before {
+	content: "\e628";
+}
+.kicon-move-out:before {
+	content: "\e629";
+}
+.kicon-move-in:before {
+	content: "\e62a";
+}
+.kicon-properties:before {
+	content: "\e62b";
+}
+.kicon-delete:before {
+	content: "\e62c";
+}
+.kicon-visible:before {
+	content: "\e62d";
+}
+.kicon-invisible:before {
+	content: "\e62e";
+}
+.kicon-unlocked:before {
+	content: "\e62f";
+}
+.kicon-locked:before {
+	content: "\e630";
+}
+.kicon-alpha:before {
+	content: "\e631";
+}
+.kicon-menu:before {
+	content: "\e632";
+}
+.kicon-plus:before {
+	content: "\e633";
+}
+.kicon-minus:before {
+	content: "\e634";
+}
+.kicon-add-palette:before {
+	content: "\e635";
+}
+.kicon-symmetry-horizontal:before {
+	content: "\e636";
+}
+.kicon-symmetry-vertical:before {
+	content: "\e637";
+}
