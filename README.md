@@ -1,7 +1,7 @@
 Krita Iconfont
 ===============
 
-#### A Webfont made out of the original awesome [Krita](https://krita.org/) Icons.
+#### A Webfont created with the original awesome [Krita](https://krita.org/) Icons.
 
 ### [Project Page](https://vascoalexander.github.io/krita-icon-font/)
 
