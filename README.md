@@ -1,9 +1,9 @@
 Krita Iconfont
 ===============
 
-A Webfont made out of the original awesome [Krita](https://krita.org/) Icons.
+#### A Webfont made out of the original awesome [Krita](https://krita.org/) Icons.
 
-## [Project Page](https://vascoalexander.github.io/krita-icon-font/)
+### [Project Page](https://vascoalexander.github.io/krita-icon-font/)
 
 The original Idea behind this work was to create useful tools for people writing Tutorials e.g. about krita. The iconset includes some handy css styles, making it easy to use it in a broad variety. I have adjusted the kbd (html-) to emphasize the use of shortcuts in a tutorial and to fit to the available extra-themes.
 
