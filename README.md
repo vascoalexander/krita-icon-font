@@ -5,7 +5,7 @@ Krita Iconfont
 
 ### [Project Page](https://vascoalexander.github.io/krita-icon-font/)
 
-The original Idea behind this work was to create useful tools for people writing Tutorials e.g. about krita. The iconset includes some handy css styles, making it easy to use it in a broad variety. I have adjusted the kbd (html-) to emphasize the use of shortcuts in a tutorial and to fit to the available extra-themes.
+The original Idea behind this work was to create useful tools for people writing Tutorials e.g. about krita. The iconset includes some handy css styles, making it easy to use it in a broad variety. I have adjusted the kbd (html-tag) to emphasize the use of shortcuts in a tutorial and to fit to the available extra-themes.
 
 *Note*: I have only created the "framework" for these truly nice Icons - the design was done by _Angel Antondo_!
 
