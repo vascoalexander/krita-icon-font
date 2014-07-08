@@ -1,0 +1,220 @@
+/*
+* Krita Icons
+* =======================================================================
+* Basic Icon-font |
+* ---------------*/
+
+@font-face {
+  font-family: 'krita-icons';
+  src:url('../fonts/krita-icons.eot?-254sj6');
+  src:url('../fonts/krita-icons.eot?#iefix-254sj6') format('embedded-opentype'),
+      url('../fonts/krita-icons.woff?-254sj6') format('woff'),
+      url('../fonts/krita-icons.ttf?-254sj6') format('truetype'),
+      url('../fonts/krita-icons.svg?-254sj6#krita-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="kicon-"], [class*=" kicon-"] {
+  font-family: 'krita-icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.kicon-select:before { content: "\e600"; }
+.kicon-text:before { content: "\e601"; }
+.kicon-pattern:before {  content: "\e602"; }
+.kicon-calligraphy:before {  content: "\e603"; }
+.kicon-format-fill-color:before {  content: "\e604"; }
+.kicon-freehand:before {  content: "\e605"; }
+.kicon-linetool:before {  content: "\e606"; }
+.kicon-square:before {  content: "\e607"; }
+.kicon-circle:before {  content: "\e608"; }
+.kicon-poly:before {  content: "\e609"; }
+.kicon-polyline:before {  content: "\e60a"; }
+.kicon-drawpath:before {  content: "\e60b"; }
+.kicon-freehand-vector:before {  content: "\e60c"; }
+.kicon-dyna:before {  content: "\e60d"; }
+.kicon-multibrush:before {  content: "\e60e"; }
+.kicon-crop:before {  content: "\e60f"; }
+.kicon-move:before {  content: "\e610"; }
+.kicon-transform:before {  content: "\e611"; }
+.kicon-measure:before {  content: "\e612"; }
+.kicon-fill:before {  content: "\e613"; }
+.kicon-colorpicker:before {  content: "\e614"; }
+.kicon-ruler:before {  content: "\e615"; }
+.kicon-perspective:before {  content: "\e616"; }
+.kicon-grid:before {  content: "\e617"; }
+.kicon-select-square:before {  content: "\e618"; }
+.kicon-select-circle:before {  content: "\e619"; }
+.kicon-select-brush:before {  content: "\e61a"; }
+.kicon-select-poly:before {  content: "\e61b"; }
+.kicon-select-freehand:before {  content: "\e61c"; }
+.kicon-select-contiguous:before {  content: "\e61d"; }
+.kicon-select-color:before {  content: "\e61e"; }
+.kicon-select-path:before {  content: "\e61f"; }
+.kicon-pan:before {  content: "\e620"; }
+.kicon-zoom:before {  content: "\e621"; }
+.kicon-new-file:before {  content: "\e622"; }
+.kicon-print:before {  content: "\e623"; }
+.kicon-save:before {  content: "\e624"; }
+.kicon-add-layer:before {  content: "\e625"; }
+.kicon-duplicate:before {  content: "\e626"; }
+.kicon-move-down:before {  content: "\e627"; }
+.kicon-move-up:before {  content: "\e628"; }
+.kicon-move-out:before {  content: "\e629"; }
+.kicon-move-in:before {  content: "\e62a"; }
+.kicon-properties:before {  content: "\e62b"; }
+.kicon-delete:before {  content: "\e62c"; }
+.kicon-visible:before {  content: "\e62d"; }
+.kicon-invisible:before {  content: "\e62e"; }
+.kicon-unlocked:before {  content: "\e62f"; }
+.kicon-locked:before {  content: "\e630"; }
+.kicon-alpha:before {  content: "\e631"; }
+.kicon-menu:before {  content: "\e632"; }
+.kicon-plus:before {  content: "\e633"; }
+.kicon-minus:before {  content: "\e634"; }
+.kicon-add-palette:before {  content: "\e635"; }
+.kicon-symmetry-horizontal:before {  content: "\e636"; }
+.kicon-symmetry-vertical:before {  content: "\e637"; }
+
+/* Optional Extras
+* ================
+* TOOLTIPS |
+* ---------*/
+
+.ki-tooltip {
+  position: relative;
+  cursor: help;
+}
+
+.ki-tooltip::before {
+  position: absolute;
+  left: 33%;
+  bottom: 30px;
+  padding: 6px;
+  background: #eee;
+  font-size: 1.5em;
+  color: #333;
+  text-shadow: 0 2px white;
+  -webkit-box-shadow: 3px 2px 9px 0px rgba(0,0,0,.35);
+  box-shadow: 3px 2px 9px 0px rgba(0,0,0,.35);
+  -webkit-transition: -webkit-transform .5s;
+  transition: transform .5s;
+  -webkit-transform: scale(0,0);
+  -ms-transform: scale(0,0);
+  transform: scale(0,0);
+}
+
+.ki-tooltip:hover::before,
+.ki-tooltip:focus::before { -webkit-transform: scale(1,1); -ms-transform: scale(1,1); transform: scale(1,1); }
+
+/*---------------------
+* Emphasize shortcuts |
+* -------------------*/
+
+kbd {
+  background: #eee;
+  -webkit-box-shadow: 1px 2px 0px 3px #cbcbcb;
+  box-shadow: 1px 2px 0px 2px #cbcbcb;
+  text-shadow: 1px 2px 0px #fcfcfc;
+  padding: 2px 10px;
+  margin: 0px 2px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  font-size: 80%;
+  border-radius: 3px;
+  color: #555;
+  vertical-align: top;
+}
+
+kbd[class^="kicon-"], kbd[class*=" kicon-"] {
+  vertical-align: text-top;
+  font-size: 90%;
+}
+
+/*--------------------------------
+* Themes for the Icon Background |
+* ------------------------------*/
+
+.theme-light {
+  display: inline-block;
+  background: #eee;
+  -webkit-box-shadow: 1px 1px 0px 1px #cbcbcb;
+  box-shadow: 1px 1px 0px 1px #cbcbcb;
+  border: 1px solid #cbcbcb;
+  border-radius: 3px;
+  margin-bottom: 6px;
+  padding: 6px;
+  color: #555;
+  text-shadow: -2px 0 white;
+}
+
+.theme-dark {
+  display: inline-block;
+  background: #676767;
+  -webkit-box-shadow: 1px 1px 0px 2px #777;
+  box-shadow: 1px 1px 0px 2px #777;
+  border: solid #d1d1d1;
+  border-width: 1px 0 0 1px;
+  border-radius: 3px;
+  margin-bottom: 6px;
+  padding: 6px;
+  color: #fafafa;
+  text-shadow: -2px 0 black;
+}
+
+/*--------------
+* Larger Icons |
+* ------------*/
+
+.kicon-md {
+  font-size: 1.5em;
+}
+.kicon-lg {
+  font-size: 2em;
+}
+.kicon-xl {
+  font-size: 3em;
+}
+
+/*--------------
+ * Icon Groups |
+ * ------------*/
+
+.highlight-icon {
+  background: rgba(132, 205, 255, 1);
+}
+
+.icon-group,
+.icon-group-horizontal {
+  margin: 10px;
+  float: left;
+}
+.icon-group-horizontal {
+  display: table;
+  width: 1%;
+}
+.icon-group span,
+.icon-group-horizontal span {
+  margin: 0;
+  border: 1px solid #999;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  float: left;
+}
+
+.icon-group span { border-width: 0 1px 0 0; }
+.icon-group-horizontal span { border-width: 0 0 1px 0; }
+
+.icon-group span:last-child,
+.icon-group-horizontal span:last-child { border: none; }

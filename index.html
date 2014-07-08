@@ -24,6 +24,8 @@
         
           
         
+        <a class="page-link" href="https://github.com/vascoalexander/krita-icon-font">Repository</a>
+        <a class="page-link" href="https://github.com/vascoalexander/krita-icon-font/archive/master.zip">Download</a>
       </div>
     </nav>
   </div>
@@ -35,14 +37,26 @@
 
   <div id="krita-icons-demo">
     <section class="" id="intro">
-    <p>This Icon Font is made with the new modern iconset designed for <a href="krita.org" target="_blank"><strong>Krita</strong></a>. The original Idea behind this work was to create useful tools for people writing Tutorials e.g. about krita. The set comes with some handy css styles making it easy to use the icons in a broad variety. The kbd (html-) tag is adjusted to emphasize the usage of shortcuts in a tutorial and to fit to the available extra-themes.</p>
+    <div class="project-heading text-center">
+      <span class="kicon-xl kicon-dyna"></span>&nbsp;
+      <span class="kicon-xl kicon-poly"></span>&nbsp;
+      <span class="kicon-xl kicon-polyline"></span>&nbsp;
+    </div>
+    <p>This Icon Font is made with the awesome new iconset designed for <a href="krita.org" target="_blank"><strong>Krita</strong></a>. The original Idea behind this work was to create useful tools for people writing Tutorials e.g. about krita. The iconset includes some handy css styles, making it easy to use it in a broad variety. I have adjusted the kbd (html-) to emphasize the use of shortcuts in a tutorial and to fit to the available extra-themes.</p>
     <p>Example: <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>B</kbd></p>
-    <p>In addition to the basic tools and themes i have included the possibilty to use the icons like tooltips popping up over the <a class="ki-tooltip kicon-visible"><b>keyword</b></a> of your choice.<div class="text-center"><div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">&quot;ki-tooltip kicon-visible&quot;</span><span class="nt">&gt;&lt;/a&gt;</span></code></pre></div></div>These Tooltips might not work as expected in older browsers.</p>
-    <p><i>Note: I have only created the "framework" for these truly nice Icons - the design was done by Angel Antondo!</i></p>
+    <p>In addition to the basic tools and themes you can use the icons for tooltips popping up over the <a class="ki-tooltip kicon-visible"><b>keyword</b></a> of your choice.<div class="text-center"><div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">&quot;ki-tooltip kicon-visible&quot;</span><span class="nt">&gt;&lt;/a&gt;</span></code></pre></div></div>The tooltips are based on css3-transforms and might not work as expected in older browsers.</p>
+    <p><i>Note: I have only created the "framework" for these truly nice Icons - the design was done by <strong>Angel Antondo!</strong></i></p>
     </section>
     <section id="usage">
     <h2>Usage</h2>
-    <p>Coming soon...</p>
+    <hr>
+    <ol>
+      <li>Download the Files (Fonts & CSS)</li>
+      <li>Load the Icon Font in the Head Section of your Website</li>
+      <div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;path-to/css/krita-icons.min.css&quot;</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span><span class="nt">&gt;</span></code></pre></div>
+      <li>Use the Icons with the Class-Selector: <strong>kicon-iconname</strong></li>
+      <li><i>[Optional]</i> Add theme or size classes (see sections below for available styles)</li>
+    </ol>
     </section>
     <section class="text-center">
       <h2>Basic Icons</h2>
@@ -752,7 +766,7 @@
       <span class="theme-light kicon-symmetry-vertical"></span>
       
     </section>
-    <section class="text-center">
+    <section id="tooltips" class="text-center">
       <h2>Tooltips</h2>
       <hr>
       <div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;#&quot;</span> <span class="na">class=</span><span class="s">&quot;ki-tooltip kicon-ruler&quot;</span><span class="nt">&gt;&lt;/a&gt;</span></code></pre></div>
@@ -947,9 +961,12 @@
     </div>
     <footer class="site-footer">
   <div class="wrap">
+  <div class="pull-left">
     <p>Coding: <strong>Vasco Alexander Basque´</strong></p>
     <p>Icon Design: <strong>Angel Antondo</strong></p>
     <p>Font Generator: <a href="http://icomoon.io/app">IcoMoon App</a></p>
+  </div>
+    <a href="#" class="pull-right kicon-xl kicon-move-up"></a>
   </div>
 </footer>
 
