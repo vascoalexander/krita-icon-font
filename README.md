@@ -26,4 +26,31 @@ The original Idea behind this work was to create useful tools for people writing
 
 4. *[Optional]* Add theme or size classes (see sections below for available styles)
 
+_Available Styles:_
+
+Size (Medium/Large/ExtraLarge):
+
+- kicon-md
+- kicon-lg
+- kicon-xl
+
+Darke or Light Themes:
+
+- theme-dark
+- theme-light
+
+Icon Groups (to use with one of the themes..):
+
+- icon-group
+- icon-group-horizontal
+- highlight-icon
+
+Markup (Icongroups):
+
+```html
+<div class="icon-group">
+  <span class"theme-light kicon-iconname"></span>
+  ...
+</div>
+
 Licence GPL v2.0
