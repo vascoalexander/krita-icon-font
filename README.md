@@ -13,9 +13,9 @@ The original Idea behind this work was to create useful tools for people writing
 
 1. Download the Files (Fonts & CSS)
 2. Load the Icon Font in the Head Section of your Website
-  ```html
-  <link href="path-to/css/krita-icons.min.css" rel="stylesheet">
-  ```
+```html
+<link href="path-to/css/krita-icons.min.css" rel="stylesheet">
+```
 3. Use the Icons with the Class-Selector: _kicon-iconname_
 4. *[Optional]* Add theme or size classes (see sections below for available styles)
 
