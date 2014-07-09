@@ -54,4 +54,4 @@ Markup (Icongroups):
 </div>
 ```
 
-Licence GPL v2.0
+*Licence GPL v2.0*
