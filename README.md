@@ -26,7 +26,7 @@ The original Idea behind this work was to create useful tools for people writing
 
 4. *[Optional]* Add theme or size classes (see sections below for available styles)
 
-_Available Styles:_
+### _Available Styles:_
 
 Size (Medium/Large/ExtraLarge):
 
@@ -52,5 +52,6 @@ Markup (Icongroups):
   <span class"theme-light kicon-iconname"></span>
   ...
 </div>
+```
 
 Licence GPL v2.0
