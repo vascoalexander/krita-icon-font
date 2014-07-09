@@ -19,6 +19,11 @@ The original Idea behind this work was to create useful tools for people writing
  ```
  
 3. Use the Icons with the Class-Selector: _kicon-iconname_
+
+ ```html
+ <span class="kicon-iconname"></span>
+ ```
+
 4. *[Optional]* Add theme or size classes (see sections below for available styles)
 
 Licence GPL v2.0
